@@ -1,0 +1,4 @@
+Mourad :
+ lecture du fichier CSV (Analyse.java), 
+ calcul des statistiques (calculatricestat.java),
+  affichage et rapport (Main.java, rapport.java)
